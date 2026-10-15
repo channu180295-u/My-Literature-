@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Anek Kannada', 'Noto Sans Kannada', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+}
+
+.font-literary {
+  font-family: 'Tiro Kannada', 'Noto Serif Kannada', Georgia, serif;
+}
+
+.font-kannada-serif {
+  font-family: 'Noto Serif Kannada', 'Tiro Kannada', Georgia, serif;
+}

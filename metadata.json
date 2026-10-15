@@ -1,0 +1,6 @@
+{
+  "name": "ಅಕ್ಷರ ಸಿಂಧು - ಚನ್ನಬಸಪ್ಪ ಉಪ್ಪಿನ ಸಾಹಿತ್ಯ ಲೋಕ",
+  "description": "ಬರಹಗಾರ ಮತ್ತು ಪದವೀಧರ ಪ್ರಾಥಮಿಕ ಶಿಕ್ಷಕ ಚನ್ನಬಸಪ್ಪ ಉಪ್ಪಿನ ಅವರ ಕಥೆ, ಲೇಖನ, ಕಾದಂಬರಿ, ಪುಸ್ತಕಗಳು, ಫೋಟೋ-ವೀಡಿಯೋ ಹಾಗೂ ಸಾಹಿತ್ಯಿಕ ವಿಚಾರಗಳ ಅಧಿಕೃತ ಜಾಲತಾಣ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
